@@ -1,79 +1,62 @@
-# 👋 Hi, I'm Aru
+# 👋 Hey, I'm Tanishq
 
-💻 BCA Student exploring software systems, programming and real-world problem solving.  
-I enjoy breaking down complex ideas and turning them into structured projects.
-
----
-
-## 🔭 Current Focus
-
-• Strengthening programming fundamentals  
-• Building small real-world projects  
-• Learning how software systems work  
-• Exploring automation and developer tools  
+💻 BCA Student exploring programming, systems and real-world problem solving.  
+I like understanding how things work and turning ideas into projects.
 
 ---
 
-## 🚀 Featured Projects
+## 🔭 Currently Working On
 
-### Matrix Image Processor
-A C-based project implementing matrix operations that simulate basic image processing concepts.
+🔹 **Flavolution**  
+Building a structured project (currently in development phase).
 
-### College Society Website
-A web project aimed at building a simple and functional website for a college community.
+---
 
-### Automation Experiments
-Small scripts and tools built to automate repetitive tasks and explore workflow efficiency.
+## 🌐 Connect With Me
 
-### Learning Projects
-A collection of programming exercises and mini projects used to strengthen core logic and coding skills.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/taniishhq_004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishq-gupta-280909384)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taniishhq004@gmail.com)
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**  
-C • Python • JavaScript  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Web**  
-HTML  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
-**Tools**  
-Git • GitHub • MySQL  
-
-**Creative Tools**  
-Figma • Canva • Blender  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Projects
 
-• Backend development fundamentals  
-• APIs and system thinking  
-• Better project architecture  
-• Developer tools and automation  
+### Flavolution
+(Work in Progress)
+
+### Learning Projects
+Small programs to improve logic and coding skills.
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=taniishhq004-alt&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
-
----
-
-## 📫 Connect
-
-Instagram  
-LinkedIn  
-Email  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taniishhq004-alt&layout=compact&theme=tokyonight)
 
 ---
 
-## ⚡ Philosophy
+## ⚡ Mindset
 
-> Learn → Build → Reflect → Improve  
+> Learn → Build → Improve  
 
-I believe real growth in technology comes from **consistent building, experimentation and curiosity.**
-
+Consistency > Motivation
